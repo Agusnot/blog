@@ -1,0 +1,1 @@
+env es para administrar las variables de entorno del proyecto
